@@ -5,7 +5,7 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/?branch=master)
 
 ※本ドキュメントはEC-CUBEの開発者を主要な対象者としております。  
-※パッケージ版をご利用の方は[EC-CUBEオフィシャルサイト](http://www.ec-cube.net)をご確認ください。
+※パッケージ版をご利用の方は[EC-CUBEオフィシャルサイト](http://www.ec-cube.net)をご確認ください。aaa
 
 ## EC-CUBE3のインストール方法
 
